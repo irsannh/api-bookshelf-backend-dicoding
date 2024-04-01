@@ -234,6 +234,6 @@ module.exports = {
   addBookHandler,
   getAllBooksHandler,
   getBookByIdHandler,
-  editBookByIdHandler,
   deleteBookByIdHandler,
+  editBookByIdHandler,
 };
